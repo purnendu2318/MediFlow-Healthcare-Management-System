@@ -1,0 +1,17 @@
+target/
+*.class
+
+# Local database credentials (never commit real passwords)
+src/main/resources/db.properties
+
+# IDE / editor files
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db

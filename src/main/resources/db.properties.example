@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/mediflow_hms?useSSL=false&serverTimezone=Asia/Kolkata&allowPublicKeyRetrieval=true
+db.username=root
+db.password=CHANGE_ME

@@ -12,6 +12,16 @@ A Java desktop application prototype for hospital workflows, built with **Java 2
 
 MediFlow currently focuses on an authenticated desktop experience and patient record workflows. It uses a layered Java structure with UI, service, repository and database configuration packages.
 
+## Screenshots
+
+### Sign-in
+
+![MediFlow sign-in screen](screenshots/login.webp)
+
+### Dashboard
+
+![MediFlow dashboard](screenshots/dashboard.webp)
+
 ### Implemented
 
 - User sign-in using BCrypt password-hash verification.

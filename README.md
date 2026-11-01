@@ -24,7 +24,7 @@ The project is intentionally documented according to its current implementation:
 
 | Sign-in | Dashboard |
 |:---:|:---:|
-| ![MediFlow login screen](screenshots/login.png) | ![MediFlow dashboard](screenshots/dashboard.png) |
+| ![MediFlow login screen](screenshots/login.webp) | ![MediFlow dashboard](screenshots/dashboard.webp) |
 
 ## Current implementation
 
